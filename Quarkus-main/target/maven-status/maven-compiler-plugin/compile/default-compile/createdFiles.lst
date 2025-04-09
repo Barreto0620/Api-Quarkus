@@ -1,0 +1,7 @@
+org\acme\app\resource\VendaResource.class
+org\acme\app\model\Venda.class
+org\acme\app\model\Cliente.class
+org\acme\app\model\Carro.class
+META-INF\panache-archive.marker
+org\acme\app\resource\CarroResource.class
+org\acme\app\resource\ClienteResource.class
